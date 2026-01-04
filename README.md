@@ -43,7 +43,7 @@ This is my **full-stack portfolio website**, showcasing my projects, skills, and
 ## 🖼️ Portfolio Screenshots
 
 ### Home Page
-![Home](public/project1.png)
+![Home](client/public/project1.png)
 
 ### About Page
 ![About](public/About.png)
