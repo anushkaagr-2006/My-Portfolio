@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+# 🌟 Anushka Kumari Agrawal - Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hi! I’m **Anushka Kumari Agrawal**, a B.Tech CSE student and aspiring software engineer.  
+This is my **full-stack portfolio website**, showcasing my projects, skills, and experience.
 
-## Available Scripts
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://anushka-portfolio-2006.vercel.app/)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Live Demo
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Portfolio**: [anushka-portfolio-2006.vercel.app](https://anushka-portfolio-2006.vercel.app/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## ✨ Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- 📱 Fully Responsive Design — Mobile, Tablet & Desktop  
+- 🎨 Modern UI/UX — Clean, professional interface  
+- 💼 Projects Showcase with live demos & GitHub links  
+- 🛠️ Skills Overview — Web + CS fundamentals  
+- 📄 Resume Download  
+- 📧 Contact Form with backend integration  
+- ⚡ Fast Performance & Smooth Animations  
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠️ Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Frontend
+- React.js  
+- CSS3 / Tailwind CSS / Styled Components  
+- React Router  
+- React Icons / Font Awesome  
+- Deployment: Vercel
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Backend
+- Node.js  
+- Express.js    
+- Deployment: Render  
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🖼️ Portfolio Screenshots
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Home Page
+![Home](public/project1.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### About Page
+![About](public/About.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Projects Page
+![Projects](public/Projects.png)
 
-## Learn More
+### Blog Page
+![Blog](public/Blog.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Contact Page
+![Contact](public/Contact.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## 👤 Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**Anushka Kumari Agrawal**
 
-### Analyzing the Bundle Size
+- **Portfolio:** [anushka-portfolio-2006.vercel.app](https://anushka-portfolio-2006.vercel.app/)
+- **GitHub:** [@anushkaagr-2006](https://github.com/anushkaagr-2006)
+- **LinkedIn:** [linkedin.com/in/anushkaaaa-agrawal](https://www.linkedin.com/in/anushkaaaa-agrawal/)
+- **Email:** anushkaagrawal02042006@gmail.com
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+Made with ❤️ by **Anushka Kumari Agrawal**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

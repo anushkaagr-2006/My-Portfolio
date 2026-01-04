@@ -19,8 +19,8 @@ const Home = () => {
   description: 'Personal portfolio website built with React frontend, Node.js backend, and MongoDB database integration.',
   technologies: ['React', 'Node.js', 'Express', 'MongoDB', 'Vercel'],
   category: 'Web Development',
-  github: 'https://github.com/yourusername/portfolio', // Update with YOUR GitHub
-  demo: 'REPLACE_WITH_YOUR_VERCEL_URL', // Update after deployment
+  github: 'https://github.com/anushkaagr-2006/My-Portfolio',
+  demo: 'https://anushka-portfolio-2006.vercel.app/',
   image: '/project1.png'
 },
   {
