@@ -46,16 +46,16 @@ This is my **full-stack portfolio website**, showcasing my projects, skills, and
 ![Home](client/public/project1.png)
 
 ### About Page
-![About](public/About.png)
+![About](client/public/About.png)
 
 ### Projects Page
-![Projects](public/Projects.png)
+![Projects](client/public/Projects.png)
 
 ### Blog Page
-![Blog](public/Blog.png)
+![Blog](client/public/Blog.png)
 
 ### Contact Page
-![Contact](public/Contact.png)
+![Contact](client/public/Contact.png)
 
 ---
 
