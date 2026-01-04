@@ -30,8 +30,7 @@ This is my **full-stack portfolio website**, showcasing my projects, skills, and
 ### Frontend
 - React.js  
 - CSS3 / Tailwind CSS / Styled Components  
-- React Router  
-- React Icons / Font Awesome  
+- React Router    
 - Deployment: Vercel
 
 ### Backend
